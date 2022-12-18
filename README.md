@@ -1,4 +1,4 @@
-# Auto_Prices_Prediction
+# Auto_prices_prediction
 Here we predict cost of an automobile by such parameters as year, vechicle type, power, fuel type, brand, mileage, etc.
 
 
